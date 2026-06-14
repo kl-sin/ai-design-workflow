@@ -90,10 +90,10 @@ Every file is annotated — each section opens with a short note on what goes th
 
 I wrote up how this system performed on a real project, including where the AI-only workflow held up and where it strained enough that I brought a familiar tool back in, in a two-part series:
 
-- Part I — [https://substack.com/home/post/p-196050924]
-- Part II — [https://substack.com/home/post/p-200534637]
+- Part I — [Designing UX with Claude & Codex (Part I)](https://klsin.substack.com/p/designing-ux-with-claude-and-codex)
+- Part II — [Designing an ICBC Case Tracking Feature (Part II)](https://klsin.substack.com/p/designing-an-icbc-case-tracking-feature)
 
-Full case study — [https://www.klsin.com/]
+Full case study — [klsin.com](https://www.klsin.com/clinic)
 
 ---
 
